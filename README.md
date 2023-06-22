@@ -6,7 +6,8 @@
 I'm a recent HKU graduate, proficient in front-end software development, and delving into the blockchain domain. I have experience crafting user interfaces and building web applications while actively enhancing my expertise in distributed ledger technology.
 
 ## 🌱 Learning Journey
-![Ethereum](https://github.com/MuddyWinds/MuddyWinds/issues/1#issue-1769059712)
+<img src="https://user-images.githubusercontent.com/90823283/247851136-bc1dd0ba-e19b-4084-8caa-04e1589ab688.jpg" alt="Ethereum" width="1000">
+
 
 My future focus is on blockchain ecosystem development and decentralized finance (DeFi). I'm highly motivated and committed to expanding my knowledge and skills in the programming world.
 
